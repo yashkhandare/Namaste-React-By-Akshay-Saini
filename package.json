@@ -1,0 +1,37 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React by Akshay Saini. Project By Yash Khandare.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashkhandare/Namaste-React-By-Akshay-Saini.git"
+  },
+  "keywords": [
+    "React",
+    "js",
+    "javascript",
+    "Yash",
+    "Khandare",
+    "Akshay",
+    "Saini",
+    "Namaste"
+  ],
+  "author": "Yash Khandare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashkhandare/Namaste-React-By-Akshay-Saini/issues"
+  },
+  "homepage": "https://github.com/yashkhandare/Namaste-React-By-Akshay-Saini#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
