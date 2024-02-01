@@ -2,9 +2,10 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "Namaste React by Akshay Saini. Project By Yash Khandare.",
-  "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
