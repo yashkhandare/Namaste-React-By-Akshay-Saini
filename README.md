@@ -28,7 +28,10 @@
 - "start" is a reserved keyword and this happens only in case of run start.
 - you cannot write npm build, this wont work.
 
-- 3. 
+- 3. React.createElement = Object => HTMLElement(Render)
+- When we render this Element into DOM, Then it becomes HTML Element.
+- 
+- 
 
 
 
