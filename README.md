@@ -44,7 +44,8 @@
 - React and JSX are Different
 - We can write React code with JSX
 - JSX makes developer's life easy
-- const headingjsx = <h1 id"heading"> This is JSX</h1>
+ 
+ // const headingjsx = <h1 id"heading"> This is JSX</h1>
 - JSX is not HTML inside JS
 - JSX is HTML like syntax
 - the above code is not valid
