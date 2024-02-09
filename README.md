@@ -55,7 +55,6 @@
 - Babel is a library inside Parcel
 - Parcel is a manager, inside parcel there is Babel.
 - Babel conevrts React code to jsx.
-- ![alt text](image.png)
 - While giving Attributes you have to give in CAMel Case.
 - 
 
