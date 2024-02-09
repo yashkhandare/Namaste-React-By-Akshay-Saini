@@ -32,6 +32,31 @@
 - When we render this Element into DOM, Then it becomes HTML Element.
 - 
 - 
+# Question: What is CDN?
+- 
+
+# npm start = npx parcel index.html
+
+# npm run build = parcel build index.html
+
+# JSX 
+- JS syntax, easier to create React element
+- React and JSX are Different
+- We can write React code with JSX
+- JSX makes developer's life easy
+- const headingjsx = <h1 id"heading"> This is JSX</h1>
+- JSX is not HTML inside JS
+- JSX is HTML like syntax
+- the above code is not valid
+- PARCEL TRANSLIES the Js code
+- Parcel is doingthe job behind the screen.
+- Transpile means converting into a code that Browsers can understand.
+- Babel is a library inside Parcel
+- Parcel is a manager, inside parcel there is Babel.
+- Babel conevrts React code to jsx.
+- ![alt text](image.png)
+- While giving Attributes you have to give in CAMel Case.
+- 
 
 
 
