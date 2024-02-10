@@ -34,6 +34,7 @@
 - 
 # Question: What is CDN?
 - 
+# Episode 3:
 
 # npm start = npx parcel index.html
 
@@ -56,6 +57,11 @@
 - Parcel is a manager, inside parcel there is Babel.
 - Babel conevrts React code to jsx.
 - While giving Attributes you have to give in CAMel Case.
+
+
+# Question: What is Component Composition?
+- It is component inside another component. 
+- Using "{}" curly bracket in JSX code you can use any type of JAVASCRIPT code in it. 
 - 
 
 
