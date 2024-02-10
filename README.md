@@ -64,5 +64,5 @@
 - Using "{}" curly bracket in JSX code you can use any type of JAVASCRIPT code in it. 
 - 
 
-
+# Episode 04 - Talks are Cheap
 
