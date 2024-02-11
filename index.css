@@ -1,3 +1,22 @@
-#root{
-    color: red;
+.Header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid grey
+}
+
+.Logo{
+    width: 100px;
+}
+
+.NavItems > ul{
+    display: flex;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+.NavItems > ul > li{
+    margin: 10px;
+    padding: 10px;
+    
+
 }
